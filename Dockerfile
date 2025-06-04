@@ -1,7 +1,5 @@
 FROM uozi/nginx-ui-base:latest
-ARG TARGETOS
-ARG TARGETARCH
-ARG TARGETVARIANT
+
 EXPOSE 80 443
 
 ENV NGINX_UI_OFFICIAL_DOCKER=true
@@ -16,8 +14,8 @@ RUN echo 'longrun' > /etc/s6-overlay/s6-rc.d/nginx-ui/type && \
 COPY resources/docker/nginx.conf /usr/local/etc/nginx/nginx.conf
 COPY resources/docker/nginx-ui.conf /usr/local/etc/nginx/conf.d/nginx-ui.conf
 
-# copy nginx-ui executable binary
-COPY nginx-ui-$TARGETOS-$TARGETARCH$TARGETVARIANT/nginx-ui /usr/local/bin/nginx-ui
+# copy nginx-ui executable binary（使用你构建出的二进制）
+COPY nginx-ui /usr/local/bin/nginx-ui
 
 # remove default nginx config
 RUN rm -f /etc/nginx/conf.d/default.conf  \

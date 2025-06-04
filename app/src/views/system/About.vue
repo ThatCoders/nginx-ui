@@ -23,7 +23,7 @@ const thisYear = new Date().getFullYear()
         </div>
       </div>
     </div>
-    <h2>Nginx UI</h2>
+    <h2>Nginx Water</h2>
     <p>Yet another WebUI for Nginx</p>
     <p>Version: {{ ver.version }} ({{ ver.total_build || $gettext('Development Mode') }})</p>
     <div class="mb-2">
@@ -63,7 +63,7 @@ const thisYear = new Date().getFullYear()
       {{ $gettext('License') }}
     </h3>
     <p>GNU General Public License v3.0</p>
-    <p>Copyright © 2021 - {{ thisYear }} Nginx UI Team</p>
+    <p>Copyright © 2021 - {{ thisYear }} Water NG Team</p>
   </ACard>
 </template>
 

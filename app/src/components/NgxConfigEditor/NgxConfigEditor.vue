@@ -41,7 +41,7 @@ const activeKey = ref(['3'])
       </ACollapsePanel>
       <ACollapsePanel
         key="2"
-        header="Upstream"
+        header="负载均衡"
       >
         <NgxUpstream />
       </ACollapsePanel>

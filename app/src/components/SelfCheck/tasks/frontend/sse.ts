@@ -12,7 +12,7 @@ const SSETask: FrontendTask = {
   key: 'sse',
   name: () => 'SSE',
   description: () => $gettext('Support communication with the backend through the Server-Sent Events protocol. '
-    + 'If your Nginx UI is being used via an Nginx reverse proxy, '
+    + 'If your Water NG is being used via an Nginx reverse proxy, '
     + 'please refer to this link to write the corresponding configuration file: '
     + 'https://nginxui.com/guide/nginx-proxy-example.html'),
   check: async (): Promise<ReportStatusType> => {

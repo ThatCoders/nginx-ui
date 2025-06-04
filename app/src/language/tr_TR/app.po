@@ -15,94 +15,94 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #: src/language/generate.ts:31
-msgid "[Nginx UI] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
+msgid "[Water NG] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
 msgstr ""
-"[Nginx UI] ACME Kullanıcısı: %{name}, E-posta: %{email}, CA Dizini: %{caDir}"
+"[Water NG] ACME Kullanıcısı: %{name}, E-posta: %{email}, CA Dizini: %{caDir}"
 
 #: src/language/generate.ts:32
-msgid "[Nginx UI] Backing up current certificate for later revocation"
+msgid "[Water NG] Backing up current certificate for later revocation"
 msgstr ""
-"[Nginx UI] Geçerli sertifika daha sonra iptal edilmek üzere yedekleniyor"
+"[Water NG] Geçerli sertifika daha sonra iptal edilmek üzere yedekleniyor"
 
 #: src/language/generate.ts:33
-msgid "[Nginx UI] Certificate renewed successfully"
-msgstr "[Nginx UI] Sertifika başarıyla yenilendi"
+msgid "[Water NG] Certificate renewed successfully"
+msgstr "[Water NG] Sertifika başarıyla yenilendi"
 
 #: src/language/generate.ts:34
-msgid "[Nginx UI] Certificate successfully revoked"
-msgstr "[Nginx UI] Sertifika başarıyla iptal edildi"
+msgid "[Water NG] Certificate successfully revoked"
+msgstr "[Water NG] Sertifika başarıyla iptal edildi"
 
 #: src/language/generate.ts:35
 msgid ""
-"[Nginx UI] Certificate was used for server, reloading server TLS certificate"
+"[Water NG] Certificate was used for server, reloading server TLS certificate"
 msgstr ""
-"[Nginx UI] Sertifika sunucu için kullanıldı, sunucu TLS sertifikası yeniden "
+"[Water NG] Sertifika sunucu için kullanıldı, sunucu TLS sertifikası yeniden "
 "yükleniyor"
 
 #: src/language/generate.ts:36
-msgid "[Nginx UI] Creating client facilitates communication with the CA server"
+msgid "[Water NG] Creating client facilitates communication with the CA server"
 msgstr ""
-"[Nginx UI] CA sunucusu ile iletişimi kolaylaştırmak için istemci oluşturma"
+"[Water NG] CA sunucusu ile iletişimi kolaylaştırmak için istemci oluşturma"
 
 #: src/language/generate.ts:37
-msgid "[Nginx UI] Environment variables cleaned"
-msgstr "[Nginx UI] Ortam değişkenleri temizlendi"
+msgid "[Water NG] Environment variables cleaned"
+msgstr "[Water NG] Ortam değişkenleri temizlendi"
 
 #: src/language/generate.ts:38
-msgid "[Nginx UI] Finished"
-msgstr "[Nginx UI] Tamamlandı"
+msgid "[Water NG] Finished"
+msgstr "[Water NG] Tamamlandı"
 
 #: src/language/generate.ts:39
-msgid "[Nginx UI] Issued certificate successfully"
-msgstr "[Nginx UI] Sertifika başarıyla verildi"
+msgid "[Water NG] Issued certificate successfully"
+msgstr "[Water NG] Sertifika başarıyla verildi"
 
 #: src/language/generate.ts:40
-msgid "[Nginx UI] Obtaining certificate"
-msgstr "[Nginx UI] Sertifika alınıyor"
+msgid "[Water NG] Obtaining certificate"
+msgstr "[Water NG] Sertifika alınıyor"
 
 #: src/language/generate.ts:41
-msgid "[Nginx UI] Preparing for certificate revocation"
-msgstr "[Nginx UI] Sertifika iptali için hazırlanıyor"
+msgid "[Water NG] Preparing for certificate revocation"
+msgstr "[Water NG] Sertifika iptali için hazırlanıyor"
 
 #: src/language/generate.ts:42
-msgid "[Nginx UI] Preparing lego configurations"
-msgstr "[Nginx UI] Lego yapılandırmaları hazırlanıyor"
+msgid "[Water NG] Preparing lego configurations"
+msgstr "[Water NG] Lego yapılandırmaları hazırlanıyor"
 
 #: src/language/generate.ts:43
-msgid "[Nginx UI] Reloading nginx"
-msgstr "[Nginx UI] Nginx yeniden yükleniyor"
+msgid "[Water NG] Reloading nginx"
+msgstr "[Water NG] Nginx yeniden yükleniyor"
 
 #: src/language/generate.ts:44
-msgid "[Nginx UI] Revocation completed"
-msgstr "[Nginx UI] İptal tamamlandı"
+msgid "[Water NG] Revocation completed"
+msgstr "[Water NG] İptal tamamlandı"
 
 #: src/language/generate.ts:45
-msgid "[Nginx UI] Revoking certificate"
-msgstr "[Nginx UI] Sertifika iptal ediliyor"
+msgid "[Water NG] Revoking certificate"
+msgstr "[Water NG] Sertifika iptal ediliyor"
 
 #: src/language/generate.ts:46
-msgid "[Nginx UI] Revoking old certificate"
-msgstr "[Nginx UI] Eski sertifika iptal ediliyor"
+msgid "[Water NG] Revoking old certificate"
+msgstr "[Water NG] Eski sertifika iptal ediliyor"
 
 #: src/language/generate.ts:47
-msgid "[Nginx UI] Setting DNS01 challenge provider"
-msgstr "[Nginx UI] DNS01 meydan okuma sağlayıcısı ayarlanıyor"
+msgid "[Water NG] Setting DNS01 challenge provider"
+msgstr "[Water NG] DNS01 meydan okuma sağlayıcısı ayarlanıyor"
 
 #: src/language/generate.ts:49
-msgid "[Nginx UI] Setting environment variables"
-msgstr "[Nginx UI] Ortam değişkenleri ayarlanıyor"
+msgid "[Water NG] Setting environment variables"
+msgstr "[Water NG] Ortam değişkenleri ayarlanıyor"
 
 #: src/language/generate.ts:48
-msgid "[Nginx UI] Setting HTTP01 challenge provider"
-msgstr "[Nginx UI] HTTP01 meydan okuma sağlayıcısı ayarlanıyor"
+msgid "[Water NG] Setting HTTP01 challenge provider"
+msgstr "[Water NG] HTTP01 meydan okuma sağlayıcısı ayarlanıyor"
 
 #: src/language/generate.ts:50
-msgid "[Nginx UI] Writing certificate private key to disk"
-msgstr "[Nginx UI] Sertifika özel anahtarı diske yazılıyor"
+msgid "[Water NG] Writing certificate private key to disk"
+msgstr "[Water NG] Sertifika özel anahtarı diske yazılıyor"
 
 #: src/language/generate.ts:51
-msgid "[Nginx UI] Writing certificate to disk"
-msgstr "[Nginx UI] Sertifika diske yazılıyor"
+msgid "[Water NG] Writing certificate to disk"
+msgstr "[Water NG] Sertifika diske yazılıyor"
 
 #: src/views/user/userColumns.tsx:30
 msgid "2FA"
@@ -771,22 +771,22 @@ msgstr "Tekrar kontrol et"
 
 #: src/language/generate.ts:6
 msgid ""
-"Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+"Check if /var/run/docker.sock exists. If you are using Water NG Official "
 "Docker Image, please make sure the docker socket is mounted like this: `-v /"
-"var/run/docker.sock:/var/run/docker.sock`. Nginx UI official image uses /var/"
+"var/run/docker.sock:/var/run/docker.sock`. Water NG official image uses /var/"
 "run/docker.sock to communicate with the host Docker Engine via Docker Client "
 "API. This feature is used to control Nginx in another container and perform "
 "container replacement rather than binary replacement during OTA upgrades of "
-"Nginx UI to ensure container dependencies are also upgraded. If you don't "
+"Water NG to ensure container dependencies are also upgraded. If you don't "
 "need this feature, please add the environment variable "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true to the container."
 msgstr ""
-"/var/run/docker.sock dosyasının var olup olmadığını kontrol edin. Nginx UI "
+"/var/run/docker.sock dosyasının var olup olmadığını kontrol edin. Water NG "
 "Resmi Docker Image'ını kullanıyorsanız, docker soketinin şu şekilde "
 "bağlandığından emin olun: `-v /var/run/docker.sock:/var/run/docker.sock`. "
-"Nginx UI resmi imajı, Docker Client API üzerinden ana bilgisayarın Docker "
+"Water NG resmi imajı, Docker Client API üzerinden ana bilgisayarın Docker "
 "Engine'i ile iletişim kurmak için /var/run/docker.sock kullanır. Bu özellik, "
-"Nginx UI'nin OTA güncellemeleri sırasında ikili dosya değişimi yerine "
+"Water NG'nin OTA güncellemeleri sırasında ikili dosya değişimi yerine "
 "konteyner değişimi yaparak Nginx'i başka bir konteynerde kontrol etmek ve "
 "konteyner bağımlılıklarının da güncellenmesini sağlamak için kullanılır. Bu "
 "özelliğe ihtiyacınız yoksa, konteynere NGINX_UI_IGNORE_DOCKER_SOCKET=true "
@@ -1130,10 +1130,10 @@ msgstr "Klasör Ekle"
 
 #: src/views/backup/components/BackupCreator.vue:75
 msgid ""
-"Create system backups including Nginx configuration and Nginx UI settings. "
+"Create system backups including Nginx configuration and Water NG settings. "
 "Backup files will be automatically downloaded to your computer."
 msgstr ""
-"Nginx yapılandırması ve Nginx UI ayarlarını içeren sistem yedekleri "
+"Nginx yapılandırması ve Water NG ayarlarını içeren sistem yedekleri "
 "oluşturun. Yedek dosyaları otomatik olarak bilgisayarınıza indirilecektir."
 
 #: src/views/backup/AutoBackup/AutoBackup.vue:229
@@ -1819,8 +1819,8 @@ msgid "Failed to backup Nginx config files: {0}"
 msgstr "Nginx yapılandırma dosyalarının yedeklenmesi başarısız oldu: {0}"
 
 #: src/constants/errors/backup.ts:4
-msgid "Failed to backup Nginx UI files: {0}"
-msgstr "Nginx UI dosyalarının yedeklenmesi başarısız oldu: {0}"
+msgid "Failed to backup Water NG files: {0}"
+msgstr "Water NG dosyalarının yedeklenmesi başarısız oldu: {0}"
 
 #: src/constants/errors/backup.ts:18
 msgid "Failed to calculate hash: {0}"
@@ -1831,8 +1831,8 @@ msgid "Failed to calculate Nginx hash: {0}"
 msgstr "Nginx hash hesaplama başarısız: {0}"
 
 #: src/constants/errors/backup.ts:57
-msgid "Failed to calculate Nginx UI hash: {0}"
-msgstr "Nginx UI hash hesaplama başarısız: {0}"
+msgid "Failed to calculate Water NG hash: {0}"
+msgstr "Water NG hash hesaplama başarısız: {0}"
 
 #: src/constants/errors/backup.ts:13
 msgid "Failed to cleanup temporary directory: {0}"
@@ -1939,8 +1939,8 @@ msgid "Failed to decrypt Nginx directory: {0}"
 msgstr "Nginx dizini şifre çözme başarısız: {0}"
 
 #: src/constants/errors/backup.ts:36
-msgid "Failed to decrypt Nginx UI directory: {0}"
-msgstr "Nginx UI dizininin şifresi çözülemedi: {0}"
+msgid "Failed to decrypt Water NG directory: {0}"
+msgstr "Water NG dizininin şifresi çözülemedi: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:66
 msgid "Failed to delete certificate"
@@ -1981,8 +1981,8 @@ msgid "Failed to encrypt Nginx directory: {0}"
 msgstr "Nginx dizini şifreleme başarısız: {0}"
 
 #: src/constants/errors/backup.ts:7
-msgid "Failed to encrypt Nginx UI directory: {0}"
-msgstr "Nginx UI dizini şifreleme başarısız: {0}"
+msgid "Failed to encrypt Water NG directory: {0}"
+msgstr "Water NG dizini şifreleme başarısız: {0}"
 
 #: src/constants/errors/backup.ts:52
 msgid "Failed to evaluate symbolic links: {0}"
@@ -2081,8 +2081,8 @@ msgid "Failed to restore Nginx configs: {0}"
 msgstr "Nginx yapılandırmaları geri yüklenemedi: {0}"
 
 #: src/constants/errors/backup.ts:40
-msgid "Failed to restore Nginx UI files: {0}"
-msgstr "Nginx UI dosyaları geri yüklenemedi: {0}"
+msgid "Failed to restore Water NG files: {0}"
+msgstr "Water NG dosyaları geri yüklenemedi: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:48
 msgid "Failed to revoke certificate"
@@ -2404,7 +2404,7 @@ msgstr "Sistem başlangıcından 10 dakika sonra kuruluma izin verilmez"
 #: src/views/install/components/TimeoutAlert.vue:11
 msgid ""
 "Installation is not allowed after 10 minutes of system startup, please "
-"restart the Nginx UI."
+"restart the Water NG."
 msgstr ""
 "Sistem başlangıcından 10 dakika sonra kuruluma izin verilmez, lütfen Nginx "
 "UI'yi yeniden başlatın."
@@ -2692,17 +2692,17 @@ msgstr "Logrotate"
 #: src/views/preference/tabs/LogrotateSettings.vue:13
 msgid ""
 "Logrotate, by default, is enabled in most mainstream Linux distributions for "
-"users who install Nginx UI on the host machine, so you don't need to modify "
-"the parameters on this page. For users who install Nginx UI using Docker "
+"users who install Water NG on the host machine, so you don't need to modify "
+"the parameters on this page. For users who install Water NG using Docker "
 "containers, you can manually enable this option. The crontab task scheduler "
-"of Nginx UI will execute the logrotate command at the interval you set in "
+"of Water NG will execute the logrotate command at the interval you set in "
 "minutes."
 msgstr ""
-"Logrotate, varsayılan olarak, Nginx UI'yi ana makineye yükleyen kullanıcılar "
+"Logrotate, varsayılan olarak, Water NG'yi ana makineye yükleyen kullanıcılar "
 "için çoğu ana akım Linux dağıtımında etkinleştirilmiştir, bu yüzden bu "
-"sayfadaki parametreleri değiştirmenize gerek yoktur. Nginx UI'yi Docker "
+"sayfadaki parametreleri değiştirmenize gerek yoktur. Water NG'yi Docker "
 "konteynerlerini kullanarak yükleyen kullanıcılar, bu seçeneği manuel olarak "
-"etkinleştirebilir. Nginx UI'nin crontab görev zamanlayıcısı, belirlediğiniz "
+"etkinleştirebilir. Water NG'nin crontab görev zamanlayıcısı, belirlediğiniz "
 "dakika aralığında logrotate komutunu çalıştıracaktır."
 
 #: src/views/site/components/SiteStatusSelect.vue:165
@@ -2984,8 +2984,8 @@ msgstr "Nginx erişim günlüğü yolu mevcut"
 
 #: src/views/backup/AutoBackup/AutoBackup.vue:28
 #: src/views/backup/AutoBackup/AutoBackup.vue:40
-msgid "Nginx and Nginx UI Config"
-msgstr "Nginx ve Nginx UI Yapılandırması"
+msgid "Nginx and Water NG Config"
+msgstr "Nginx ve Water NG Yapılandırması"
 
 #: src/constants/errors/self_check.ts:6
 msgid "Nginx conf no http block"
@@ -3141,19 +3141,19 @@ msgid "Nginx theoretical maximum performance"
 msgstr "Nginx teorik maksimum performansı"
 
 #: src/constants/errors/system.ts:2
-msgid "Nginx UI already installed"
-msgstr "Nginx UI zaten yüklü"
+msgid "Water NG already installed"
+msgstr "Water NG zaten yüklü"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:142
-msgid "Nginx UI configuration has been restored"
-msgstr "Nginx UI yapılandırması geri yüklendi"
+msgid "Water NG configuration has been restored"
+msgstr "Water NG yapılandırması geri yüklendi"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:336
 msgid ""
-"Nginx UI configuration has been restored and will restart automatically in a "
+"Water NG configuration has been restored and will restart automatically in a "
 "few seconds."
 msgstr ""
-"Nginx UI yapılandırması geri yüklendi ve birkaç saniye içinde otomatik "
+"Water NG yapılandırması geri yüklendi ve birkaç saniye içinde otomatik "
 "olarak yeniden başlatılacak."
 
 #: src/language/generate.ts:26
@@ -4098,8 +4098,8 @@ msgstr "Nginx Yapılandırmasını Geri Yükle"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:234
 #: src/components/SystemRestore/SystemRestoreContent.vue:311
-msgid "Restore Nginx UI Configuration"
-msgstr "Nginx UI Yapılandırmasını Geri Yükle"
+msgid "Restore Water NG Configuration"
+msgstr "Water NG Yapılandırmasını Geri Yükle"
 
 #: src/components/ConfigHistory/DiffViewer.vue:412
 #: src/components/ConfigHistory/DiffViewer.vue:425
@@ -4412,8 +4412,8 @@ msgstr "Kendi Kendini Kontrol"
 
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:37
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:60
-msgid "Self check failed, Nginx UI may not work properly"
-msgstr "Kendi kendine kontrol başarısız oldu, Nginx UI düzgün çalışmayabilir"
+msgid "Self check failed, Water NG may not work properly"
+msgstr "Kendi kendine kontrol başarısız oldu, Water NG düzgün çalışmayabilir"
 
 #: src/views/dashboard/ServerAnalytic.vue:344
 #: src/views/dashboard/ServerAnalytic.vue:35
@@ -4489,8 +4489,8 @@ msgstr ""
 "nginxui.com/guide/config-nginx.html adresine bakın"
 
 #: src/views/install/components/InstallView.vue:65
-msgid "Setup your Nginx UI"
-msgstr "Nginx UI'nizi ayarlayın"
+msgid "Setup your Water NG"
+msgstr "Water NG'nizi ayarlayın"
 
 #: src/views/dashboard/components/ParamsOpt/ProxyCacheConfig.vue:147
 msgid "Shared Memory Zone"
@@ -4718,19 +4718,19 @@ msgstr "Pazar"
 #: src/components/SelfCheck/tasks/frontend/sse.ts:14
 msgid ""
 "Support communication with the backend through the Server-Sent Events "
-"protocol. If your Nginx UI is being used via an Nginx reverse proxy, please "
+"protocol. If your Water NG is being used via an Nginx reverse proxy, please "
 "refer to this link to write the corresponding configuration file: https://"
 "nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
 "Backend ile iletişimi Server-Sent Events protokolü üzerinden destekler. "
-"Nginx UI'nız bir Nginx ters proxy üzerinden kullanılıyorsa, ilgili "
+"Water NG'nız bir Nginx ters proxy üzerinden kullanılıyorsa, ilgili "
 "yapılandırma dosyasını yazmak için bu bağlantıya bakın: https://nginxui.com/"
 "guide/nginx-proxy-example.html"
 
 #: src/components/SelfCheck/tasks/frontend/websocket.ts:13
 msgid ""
 "Support communication with the backend through the WebSocket protocol. If "
-"your Nginx UI is being used via an Nginx reverse proxy, please refer to this "
+"your Water NG is being used via an Nginx reverse proxy, please refer to this "
 "link to write the corresponding configuration file: https://nginxui.com/"
 "guide/nginx-proxy-example.html"
 msgstr ""
@@ -4956,12 +4956,12 @@ msgstr ""
 
 #: src/views/dashboard/Environments.vue:148
 msgid ""
-"The remote Nginx UI version is not compatible with the local Nginx UI "
-"version. To avoid potential errors, please upgrade the remote Nginx UI to "
+"The remote Water NG version is not compatible with the local Water NG "
+"version. To avoid potential errors, please upgrade the remote Water NG to "
 "match the local version."
 msgstr ""
-"Uzak Nginx UI sürümü, yerel Nginx UI sürümüyle uyumlu değil. Olası "
-"hatalardan kaçınmak için lütfen uzak Nginx UI'yi yerel sürümle eşleşecek "
+"Uzak Water NG sürümü, yerel Water NG sürümüyle uyumlu değil. Olası "
+"hatalardan kaçınmak için lütfen uzak Water NG'yi yerel sürümle eşleşecek "
 "şekilde güncelleyin."
 
 #: src/components/AutoCertForm/AutoCertForm.vue:43
@@ -5009,8 +5009,8 @@ msgid "This Auto Cert item is invalid, please remove it."
 msgstr "Bu Otomatik Sertifika öğesi geçersiz, lütfen kaldırın."
 
 #: src/views/certificate/CertificateEditor.vue:92
-msgid "This certificate is managed by Nginx UI"
-msgstr "Bu sertifika Nginx UI tarafından yönetilmektedir"
+msgid "This certificate is managed by Water NG"
+msgstr "Bu sertifika Water NG tarafından yönetilmektedir"
 
 #: src/views/certificate/CertificateEditor.vue:165
 #: src/views/certificate/CertificateEditor.vue:179
@@ -5083,17 +5083,17 @@ msgstr ""
 #: src/components/SystemRestore/SystemRestoreContent.vue:238
 #: src/components/SystemRestore/SystemRestoreContent.vue:315
 msgid ""
-"This will restore configuration files and database. Nginx UI will restart "
+"This will restore configuration files and database. Water NG will restart "
 "after the restoration is complete."
 msgstr ""
 "Bu işlem yapılandırma dosyalarını ve veritabanını geri yükleyecektir. Geri "
-"yükleme tamamlandıktan sonra Nginx UI yeniden başlatılacaktır."
+"yükleme tamamlandıktan sonra Water NG yeniden başlatılacaktır."
 
 #: src/views/environments/list/BatchUpgrader.vue:182
 msgid ""
-"This will upgrade or reinstall the Nginx UI on %{nodeNames} to %{version}."
+"This will upgrade or reinstall the Water NG on %{nodeNames} to %{version}."
 msgstr ""
-"Bu işlem, %{nodeNames} üzerindeki Nginx UI'yi %{version} sürümüne "
+"Bu işlem, %{nodeNames} üzerindeki Water NG'yi %{version} sürümüne "
 "yükseltecek veya yeniden yükleyecektir."
 
 #: src/views/preference/tabs/AuthSettings.vue:92
@@ -5138,11 +5138,11 @@ msgstr ""
 msgid ""
 "To ensure security, Webauthn configuration cannot be added through the UI. "
 "Please manually configure the following in the app.ini configuration file "
-"and restart Nginx UI."
+"and restart Water NG."
 msgstr ""
 "Güvenliği sağlamak için WebAuthn yapılandırması kullanıcı arayüzü üzerinden "
 "eklenemez. Lütfen app.ini yapılandırma dosyasına aşağıdakileri manuel olarak "
-"ekleyin ve Nginx UI'ı yeniden başlatın."
+"ekleyin ve Water NG'ı yeniden başlatın."
 
 #: src/views/site/site_edit/components/Cert/IssueCert.vue:34
 #: src/views/site/site_edit/components/EnableTLS/EnableTLS.vue:15
@@ -5282,8 +5282,8 @@ msgid "Upgrade"
 msgstr "Yükselt"
 
 #: src/views/environments/list/BatchUpgrader.vue:137
-msgid "Upgraded Nginx UI on %{node} successfully 🎉"
-msgstr "%{node} üzerindeki Nginx UI başarıyla güncellendi 🎉"
+msgid "Upgraded Water NG on %{node} successfully 🎉"
+msgstr "%{node} üzerindeki Water NG başarıyla güncellendi 🎉"
 
 #: src/language/constants.ts:30
 msgid "Upgraded successfully"
@@ -5291,8 +5291,8 @@ msgstr "Başarıyla yükseltildi"
 
 #: src/views/environments/list/BatchUpgrader.vue:88
 #: src/views/system/Upgrade.vue:81
-msgid "Upgrading Nginx UI, please wait..."
-msgstr "Nginx UI güncelleniyor, lütfen bekleyin..."
+msgid "Upgrading Water NG, please wait..."
+msgstr "Water NG güncelleniyor, lütfen bekleyin..."
 
 #: src/language/curd.ts:47
 msgid "Upload Files"
@@ -5468,11 +5468,11 @@ msgstr "Haftalık olarak %{day} günü %{time}"
 
 #: src/views/certificate/ACMEUser.vue:78
 msgid ""
-"When Enabled, Nginx UI will automatically re-register users upon startup. "
+"When Enabled, Water NG will automatically re-register users upon startup. "
 "Generally, do not enable this unless you are in a dev environment and using "
 "Pebble as CA."
 msgstr ""
-"Etkinleştirildiğinde, Nginx UI başlangıçta kullanıcıları otomatik olarak "
+"Etkinleştirildiğinde, Water NG başlangıçta kullanıcıları otomatik olarak "
 "yeniden kaydedecektir. Genellikle, bir geliştirme ortamında değilseniz ve "
 "Pebble'ı CA olarak kullanmıyorsanız bunu etkinleştirmeyin."
 
@@ -5554,8 +5554,8 @@ msgid "You are using the latest version"
 msgstr "En son sürümü kullanıyorsunuz"
 
 #: src/views/system/Upgrade.vue:180
-msgid "You can check Nginx UI upgrade at this page."
-msgstr "Bu sayfada Nginx UI güncellemesini kontrol edebilirsiniz."
+msgid "You can check Water NG upgrade at this page."
+msgstr "Bu sayfada Water NG güncellemesini kontrol edebilirsiniz."
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:339
 msgid "You can close this dialog in %{countdown} seconds"
@@ -5616,7 +5616,7 @@ msgstr "Geçiş Anahtarlarınız"
 #~ msgid "Nginx Config"
 #~ msgstr "Nginx Yapılandırması"
 
-#~ msgid "Nginx UI Config"
+#~ msgid "Water NG Config"
 #~ msgstr "Nginx Arayüz Yapılandırması"
 
 #~ msgid "Disable"
@@ -5669,7 +5669,7 @@ msgstr "Geçiş Anahtarlarınız"
 #~ msgstr "Görüntüleme Modu"
 
 #~ msgid ""
-#~ "Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+#~ "Check if /var/run/docker.sock exists. If you are using Water NG Official "
 #~ "Docker Image, please make sure the docker socket is mounted like this: `-"
 #~ "v /var/run/docker.sock:/var/run/docker.sock`."
 #~ msgstr ""
@@ -5775,7 +5775,7 @@ msgstr "Geçiş Anahtarlarınız"
 #~ msgstr "Başarıyla etkinleştirildi"
 
 #, fuzzy
-#~ msgid "Please upgrade the remote Nginx UI to the latest version"
+#~ msgid "Please upgrade the remote Water NG to the latest version"
 #~ msgstr ""
 #~ "0] yapılandırmasını %{env_name} ile eşitleme başarısız oldu, lütfen uzak "
 #~ "Nginx kullanıcı arayüzünü en son sürüme yükseltin"
@@ -5803,7 +5803,7 @@ msgstr "Geçiş Anahtarlarınız"
 #, fuzzy
 #~ msgid ""
 #~ "Sync Certificate %{cert_name} to %{env_name} failed, please upgrade the "
-#~ "remote Nginx UI to the latest version"
+#~ "remote Water NG to the latest version"
 #~ msgstr ""
 #~ "Sertifika %{cert_name}'dan %{env_name}'e senkronizasyon başarısız oldu, "
 #~ "lütfen uzak Nginx kullanıcı arayüzünü en son sürüme yükseltin"
@@ -5861,7 +5861,7 @@ msgstr "Geçiş Anahtarlarınız"
 #, fuzzy
 #~ msgid ""
 #~ "Rename %{orig_path} to %{new_path} on %{env_name} failed, please upgrade "
-#~ "the remote Nginx UI to the latest version"
+#~ "the remote Water NG to the latest version"
 #~ msgstr ""
 #~ "2] üzerinde %{orig_path}'ı %{new_path} olarak yeniden adlandırmak "
 #~ "başarısız oldu, lütfen uzak Nginx kullanıcı arayüzünü en son sürüme "

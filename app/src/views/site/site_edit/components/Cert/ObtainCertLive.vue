@@ -80,8 +80,8 @@ async function issue_cert(config_name: string, server_name: string[], key_type: 
           reject($gettext('Fail to obtain certificate'))
           break
         default:
-          // If it is a nginx ui log, increase the percent.
-          if (r.message.includes('[Nginx UI]'))
+          // If it is a Water NG log, increase the percent.
+          if (r.message.includes('[Water NG]'))
             progressPercent.value += 8
           break
       }

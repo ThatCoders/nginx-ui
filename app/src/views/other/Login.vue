@@ -163,7 +163,7 @@ async function handlePasskeyLogin() {
       <div class="login-container">
         <div class="login-form">
           <div class="project-title">
-            <h1>Nginx UI</h1>
+            <h1>Nginx Water</h1>
           </div>
           <AForm id="components-form-demo-normal-login">
             <template v-if="!enabled2FA">
@@ -244,7 +244,7 @@ async function handlePasskeyLogin() {
           </AForm>
           <div class="footer">
             <p class="mb-4">
-              Copyright © 2021 - {{ thisYear }} Nginx UI
+              Copyright © 2021 - {{ thisYear }} Water NG
             </p>
             <ICP class="mb-4" />
             Language

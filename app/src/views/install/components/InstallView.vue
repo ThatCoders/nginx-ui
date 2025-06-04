@@ -43,7 +43,7 @@ else {
 function handleRestoreSuccess(options: { restoreNginx: boolean, restoreNginxUI: boolean }): void {
   message.success($gettext('System restored successfully.'))
 
-  // Only redirect to login page if Nginx UI was restored
+  // Only redirect to login page if Water NG was restored
   if (options.restoreNginxUI) {
     message.info($gettext('Please log in.'))
     window.location.reload()
@@ -62,7 +62,7 @@ const steps = computed(() => {
     },
     {
       title: $gettext('Installation'),
-      description: $gettext('Setup your Nginx UI'),
+      description: $gettext('Setup your Water NG'),
     },
   ]
 })

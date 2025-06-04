@@ -75,7 +75,7 @@ const columns: StdTableColumn[] = [
     hiddenInDetail: true,
     edit: {
       type: 'switch',
-      hint: $gettext('When Enabled, Nginx UI will automatically re-register users upon startup. '
+      hint: $gettext('When Enabled, Water NG will automatically re-register users upon startup. '
         + 'Generally, do not enable this unless you are in a dev environment and using Pebble as CA.'),
     },
   },

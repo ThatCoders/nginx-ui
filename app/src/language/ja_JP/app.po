@@ -17,93 +17,93 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 
 #: src/language/generate.ts:31
-msgid "[Nginx UI] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
+msgid "[Water NG] ACME User: %{name}, Email: %{email}, CA Dir: %{caDir}"
 msgstr ""
-"[Nginx UI] ACME ユーザー: %{name}、メール: %{email}、CA ディレクトリ: "
+"[Water NG] ACME ユーザー: %{name}、メール: %{email}、CA ディレクトリ: "
 "%{caDir}"
 
 #: src/language/generate.ts:32
-msgid "[Nginx UI] Backing up current certificate for later revocation"
-msgstr "[Nginx UI] 現在の証明書を後で失効させるためにバックアップ中"
+msgid "[Water NG] Backing up current certificate for later revocation"
+msgstr "[Water NG] 現在の証明書を後で失効させるためにバックアップ中"
 
 #: src/language/generate.ts:33
-msgid "[Nginx UI] Certificate renewed successfully"
-msgstr "[Nginx UI] 証明書の更新が成功しました"
+msgid "[Water NG] Certificate renewed successfully"
+msgstr "[Water NG] 証明書の更新が成功しました"
 
 #: src/language/generate.ts:34
-msgid "[Nginx UI] Certificate successfully revoked"
-msgstr "[Nginx UI] 証明書の失効に成功しました"
+msgid "[Water NG] Certificate successfully revoked"
+msgstr "[Water NG] 証明書の失効に成功しました"
 
 #: src/language/generate.ts:35
 msgid ""
-"[Nginx UI] Certificate was used for server, reloading server TLS certificate"
+"[Water NG] Certificate was used for server, reloading server TLS certificate"
 msgstr ""
-"[Nginx UI] サーバーで証明書が使用されました、サーバーのTLS証明書を再読み込み"
+"[Water NG] サーバーで証明書が使用されました、サーバーのTLS証明書を再読み込み"
 "中"
 
 #: src/language/generate.ts:36
-msgid "[Nginx UI] Creating client facilitates communication with the CA server"
-msgstr "[Nginx UI] CA サーバーとの通信を容易にするクライアントを作成中"
+msgid "[Water NG] Creating client facilitates communication with the CA server"
+msgstr "[Water NG] CA サーバーとの通信を容易にするクライアントを作成中"
 
 #: src/language/generate.ts:37
-msgid "[Nginx UI] Environment variables cleaned"
-msgstr "[Nginx UI] 環境変数をクリーンアップしました"
+msgid "[Water NG] Environment variables cleaned"
+msgstr "[Water NG] 環境変数をクリーンアップしました"
 
 #: src/language/generate.ts:38
-msgid "[Nginx UI] Finished"
-msgstr "[Nginx UI] 完了しました"
+msgid "[Water NG] Finished"
+msgstr "[Water NG] 完了しました"
 
 #: src/language/generate.ts:39
-msgid "[Nginx UI] Issued certificate successfully"
-msgstr "[Nginx UI] 証明書の発行に成功しました"
+msgid "[Water NG] Issued certificate successfully"
+msgstr "[Water NG] 証明書の発行に成功しました"
 
 #: src/language/generate.ts:40
-msgid "[Nginx UI] Obtaining certificate"
-msgstr "[Nginx UI] 証明書を取得中"
+msgid "[Water NG] Obtaining certificate"
+msgstr "[Water NG] 証明書を取得中"
 
 #: src/language/generate.ts:41
-msgid "[Nginx UI] Preparing for certificate revocation"
-msgstr "[Nginx UI] 証明書の失効準備中"
+msgid "[Water NG] Preparing for certificate revocation"
+msgstr "[Water NG] 証明書の失効準備中"
 
 #: src/language/generate.ts:42
-msgid "[Nginx UI] Preparing lego configurations"
-msgstr "[Nginx UI] Lego 設定の準備中"
+msgid "[Water NG] Preparing lego configurations"
+msgstr "[Water NG] Lego 設定の準備中"
 
 #: src/language/generate.ts:43
-msgid "[Nginx UI] Reloading nginx"
-msgstr "[Nginx UI] Nginx を再読み込み中"
+msgid "[Water NG] Reloading nginx"
+msgstr "[Water NG] Nginx を再読み込み中"
 
 #: src/language/generate.ts:44
-msgid "[Nginx UI] Revocation completed"
-msgstr "[Nginx UI] 失効が完了しました"
+msgid "[Water NG] Revocation completed"
+msgstr "[Water NG] 失効が完了しました"
 
 #: src/language/generate.ts:45
-msgid "[Nginx UI] Revoking certificate"
-msgstr "[Nginx UI] 証明書を失効中"
+msgid "[Water NG] Revoking certificate"
+msgstr "[Water NG] 証明書を失効中"
 
 #: src/language/generate.ts:46
-msgid "[Nginx UI] Revoking old certificate"
-msgstr "[Nginx UI] 古い証明書を失効中"
+msgid "[Water NG] Revoking old certificate"
+msgstr "[Water NG] 古い証明書を失効中"
 
 #: src/language/generate.ts:47
-msgid "[Nginx UI] Setting DNS01 challenge provider"
-msgstr "[Nginx UI] DNS01 チャレンジプロバイダーを設定中"
+msgid "[Water NG] Setting DNS01 challenge provider"
+msgstr "[Water NG] DNS01 チャレンジプロバイダーを設定中"
 
 #: src/language/generate.ts:49
-msgid "[Nginx UI] Setting environment variables"
-msgstr "[Nginx UI] 環境変数の設定"
+msgid "[Water NG] Setting environment variables"
+msgstr "[Water NG] 環境変数の設定"
 
 #: src/language/generate.ts:48
-msgid "[Nginx UI] Setting HTTP01 challenge provider"
-msgstr "[Nginx UI] HTTP01 チャレンジプロバイダーの設定"
+msgid "[Water NG] Setting HTTP01 challenge provider"
+msgstr "[Water NG] HTTP01 チャレンジプロバイダーの設定"
 
 #: src/language/generate.ts:50
-msgid "[Nginx UI] Writing certificate private key to disk"
-msgstr "[Nginx UI] 証明書の秘密鍵をディスクに書き込んでいます"
+msgid "[Water NG] Writing certificate private key to disk"
+msgstr "[Water NG] 証明書の秘密鍵をディスクに書き込んでいます"
 
 #: src/language/generate.ts:51
-msgid "[Nginx UI] Writing certificate to disk"
-msgstr "[Nginx UI] 証明書をディスクに書き込み中"
+msgid "[Water NG] Writing certificate to disk"
+msgstr "[Water NG] 証明書をディスクに書き込み中"
 
 #: src/views/user/userColumns.tsx:30
 msgid "2FA"
@@ -115,7 +115,7 @@ msgstr "ニ要素認証設定"
 
 #: src/routes/modules/system.ts:38
 msgid "About"
-msgstr "Nginx UI について"
+msgstr "Water NG について"
 
 #: src/views/nginx_log/NginxLogList.vue:23
 msgid "Access Log"
@@ -767,21 +767,21 @@ msgstr "再確認"
 
 #: src/language/generate.ts:6
 msgid ""
-"Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+"Check if /var/run/docker.sock exists. If you are using Water NG Official "
 "Docker Image, please make sure the docker socket is mounted like this: `-v /"
-"var/run/docker.sock:/var/run/docker.sock`. Nginx UI official image uses /var/"
+"var/run/docker.sock:/var/run/docker.sock`. Water NG official image uses /var/"
 "run/docker.sock to communicate with the host Docker Engine via Docker Client "
 "API. This feature is used to control Nginx in another container and perform "
 "container replacement rather than binary replacement during OTA upgrades of "
-"Nginx UI to ensure container dependencies are also upgraded. If you don't "
+"Water NG to ensure container dependencies are also upgraded. If you don't "
 "need this feature, please add the environment variable "
 "NGINX_UI_IGNORE_DOCKER_SOCKET=true to the container."
 msgstr ""
-"/var/run/docker.sock が存在するか確認してください。Nginx UI 公式 Docker イ"
+"/var/run/docker.sock が存在するか確認してください。Water NG 公式 Docker イ"
 "メージを使用している場合は、Docker ソケットを次のようにマウントしてください: "
-"`-v /var/run/docker.sock:/var/run/docker.sock`。Nginx UI 公式イメージは /var/"
+"`-v /var/run/docker.sock:/var/run/docker.sock`。Water NG 公式イメージは /var/"
 "run/docker.sock を使用して、Docker Client API を介してホストの Docker Engine "
-"と通信します。この機能は、別のコンテナ内で Nginx を制御し、Nginx UI の OTA "
+"と通信します。この機能は、別のコンテナ内で Nginx を制御し、Water NG の OTA "
 "アップグレード時にバイナリの置き換えではなくコンテナの置き換えを実行するため"
 "に使用され、コンテナの依存関係もアップグレードされるようにします。この機能が"
 "必要ない場合は、環境変数 NGINX_UI_IGNORE_DOCKER_SOCKET=true をコンテナに追加"
@@ -1121,10 +1121,10 @@ msgstr "フォルダーを作成"
 
 #: src/views/backup/components/BackupCreator.vue:75
 msgid ""
-"Create system backups including Nginx configuration and Nginx UI settings. "
+"Create system backups including Nginx configuration and Water NG settings. "
 "Backup files will be automatically downloaded to your computer."
 msgstr ""
-"Nginx 設定と Nginx UI 設定を含むシステムバックアップを作成します。バックアッ"
+"Nginx 設定と Water NG 設定を含むシステムバックアップを作成します。バックアッ"
 "プファイルは自動的にコンピュータにダウンロードされます。"
 
 #: src/views/backup/AutoBackup/AutoBackup.vue:229
@@ -1803,8 +1803,8 @@ msgid "Failed to backup Nginx config files: {0}"
 msgstr "Nginx設定ファイルのバックアップに失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:4
-msgid "Failed to backup Nginx UI files: {0}"
-msgstr "Nginx UI ファイルのバックアップに失敗しました: {0}"
+msgid "Failed to backup Water NG files: {0}"
+msgstr "Water NG ファイルのバックアップに失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:18
 msgid "Failed to calculate hash: {0}"
@@ -1815,8 +1815,8 @@ msgid "Failed to calculate Nginx hash: {0}"
 msgstr "Nginxハッシュの計算に失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:57
-msgid "Failed to calculate Nginx UI hash: {0}"
-msgstr "Nginx UI のハッシュ計算に失敗しました: {0}"
+msgid "Failed to calculate Water NG hash: {0}"
+msgstr "Water NG のハッシュ計算に失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:13
 msgid "Failed to cleanup temporary directory: {0}"
@@ -1923,8 +1923,8 @@ msgid "Failed to decrypt Nginx directory: {0}"
 msgstr "Nginxディレクトリの復号に失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:36
-msgid "Failed to decrypt Nginx UI directory: {0}"
-msgstr "Nginx UIディレクトリの復号に失敗しました: {0}"
+msgid "Failed to decrypt Water NG directory: {0}"
+msgstr "Water NGディレクトリの復号に失敗しました: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:66
 msgid "Failed to delete certificate"
@@ -1965,8 +1965,8 @@ msgid "Failed to encrypt Nginx directory: {0}"
 msgstr "Nginxディレクトリの暗号化に失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:7
-msgid "Failed to encrypt Nginx UI directory: {0}"
-msgstr "Nginx UI ディレクトリの暗号化に失敗しました: {0}"
+msgid "Failed to encrypt Water NG directory: {0}"
+msgstr "Water NG ディレクトリの暗号化に失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:52
 msgid "Failed to evaluate symbolic links: {0}"
@@ -2065,8 +2065,8 @@ msgid "Failed to restore Nginx configs: {0}"
 msgstr "Nginx設定の復元に失敗しました: {0}"
 
 #: src/constants/errors/backup.ts:40
-msgid "Failed to restore Nginx UI files: {0}"
-msgstr "Nginx UIファイルの復元に失敗しました: {0}"
+msgid "Failed to restore Water NG files: {0}"
+msgstr "Water NGファイルの復元に失敗しました: {0}"
 
 #: src/views/certificate/components/RemoveCert.vue:48
 msgid "Failed to revoke certificate"
@@ -2383,9 +2383,9 @@ msgstr "システム起動後10分経過するとインストールは許可さ�
 #: src/views/install/components/TimeoutAlert.vue:11
 msgid ""
 "Installation is not allowed after 10 minutes of system startup, please "
-"restart the Nginx UI."
+"restart the Water NG."
 msgstr ""
-"システム起動から10分後はインストールが許可されません。Nginx UIを再起動してく"
+"システム起動から10分後はインストールが許可されません。Water NGを再起動してく"
 "ださい。"
 
 #: src/views/preference/tabs/LogrotateSettings.vue:26
@@ -2673,17 +2673,17 @@ msgstr "ログローテート"
 #: src/views/preference/tabs/LogrotateSettings.vue:13
 msgid ""
 "Logrotate, by default, is enabled in most mainstream Linux distributions for "
-"users who install Nginx UI on the host machine, so you don't need to modify "
-"the parameters on this page. For users who install Nginx UI using Docker "
+"users who install Water NG on the host machine, so you don't need to modify "
+"the parameters on this page. For users who install Water NG using Docker "
 "containers, you can manually enable this option. The crontab task scheduler "
-"of Nginx UI will execute the logrotate command at the interval you set in "
+"of Water NG will execute the logrotate command at the interval you set in "
 "minutes."
 msgstr ""
-"Logrotate は、ホストマシンに Nginx UI をインストールするユーザー向けに、ほと"
+"Logrotate は、ホストマシンに Water NG をインストールするユーザー向けに、ほと"
 "んどの主流な Linux ディストリビューションでデフォルトで有効になっています。そ"
 "のため、このページのパラメータを変更する必要はありません。Docker コンテナを使"
-"用して Nginx UI をインストールするユーザーは、このオプションを手動で有効にす"
-"ることができます。Nginx UI の crontab タスクスケジューラは、設定した間隔（分"
+"用して Water NG をインストールするユーザーは、このオプションを手動で有効にす"
+"ることができます。Water NG の crontab タスクスケジューラは、設定した間隔（分"
 "単位）で logrotate コマンドを実行します。"
 
 #: src/views/site/components/SiteStatusSelect.vue:165
@@ -2965,8 +2965,8 @@ msgstr "Nginx アクセスログのパスが存在します"
 
 #: src/views/backup/AutoBackup/AutoBackup.vue:28
 #: src/views/backup/AutoBackup/AutoBackup.vue:40
-msgid "Nginx and Nginx UI Config"
-msgstr "Nginx および Nginx UI 設定"
+msgid "Nginx and Water NG Config"
+msgstr "Nginx および Water NG 設定"
 
 #: src/constants/errors/self_check.ts:6
 msgid "Nginx conf no http block"
@@ -3122,18 +3122,18 @@ msgid "Nginx theoretical maximum performance"
 msgstr "Nginx の理論上の最大パフォーマンス"
 
 #: src/constants/errors/system.ts:2
-msgid "Nginx UI already installed"
-msgstr "Nginx UI はすでにインストールされています"
+msgid "Water NG already installed"
+msgstr "Water NG はすでにインストールされています"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:142
-msgid "Nginx UI configuration has been restored"
-msgstr "Nginx UI の設定が復元されました"
+msgid "Water NG configuration has been restored"
+msgstr "Water NG の設定が復元されました"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:336
 msgid ""
-"Nginx UI configuration has been restored and will restart automatically in a "
+"Water NG configuration has been restored and will restart automatically in a "
 "few seconds."
-msgstr "Nginx UI の設定が復元され、数秒後に自動的に再起動します。"
+msgstr "Water NG の設定が復元され、数秒後に自動的に再起動します。"
 
 #: src/language/generate.ts:26
 msgid "Nginx.conf includes conf.d directory"
@@ -4056,8 +4056,8 @@ msgstr "Nginx設定を復元"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:234
 #: src/components/SystemRestore/SystemRestoreContent.vue:311
-msgid "Restore Nginx UI Configuration"
-msgstr "Nginx UI 設定を復元"
+msgid "Restore Water NG Configuration"
+msgstr "Water NG 設定を復元"
 
 #: src/components/ConfigHistory/DiffViewer.vue:412
 #: src/components/ConfigHistory/DiffViewer.vue:425
@@ -4371,8 +4371,8 @@ msgstr "セルフチェック"
 
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:37
 #: src/components/SelfCheck/SelfCheckHeaderBanner.vue:60
-msgid "Self check failed, Nginx UI may not work properly"
-msgstr "自己チェックに失敗しました、Nginx UIが正常に動作しない可能性があります"
+msgid "Self check failed, Water NG may not work properly"
+msgstr "自己チェックに失敗しました、Water NGが正常に動作しない可能性があります"
 
 #: src/views/dashboard/ServerAnalytic.vue:344
 #: src/views/dashboard/ServerAnalytic.vue:35
@@ -4448,8 +4448,8 @@ msgstr ""
 "nginxui.com/guide/config-nginx.html を参照してください"
 
 #: src/views/install/components/InstallView.vue:65
-msgid "Setup your Nginx UI"
-msgstr "Nginx UI をセットアップ"
+msgid "Setup your Water NG"
+msgstr "Water NG をセットアップ"
 
 #: src/views/dashboard/components/ParamsOpt/ProxyCacheConfig.vue:147
 msgid "Shared Memory Zone"
@@ -4677,23 +4677,23 @@ msgstr "日曜日"
 #: src/components/SelfCheck/tasks/frontend/sse.ts:14
 msgid ""
 "Support communication with the backend through the Server-Sent Events "
-"protocol. If your Nginx UI is being used via an Nginx reverse proxy, please "
+"protocol. If your Water NG is being used via an Nginx reverse proxy, please "
 "refer to this link to write the corresponding configuration file: https://"
 "nginxui.com/guide/nginx-proxy-example.html"
 msgstr ""
 "Server-Sent Events プロトコルを介してバックエンドとの通信をサポートします。"
-"Nginx UI を Nginx リバースプロキシ経由で使用している場合は、このリンクを参照"
+"Water NG を Nginx リバースプロキシ経由で使用している場合は、このリンクを参照"
 "して対応する設定ファイルを作成してください: https://nginxui.com/guide/nginx-"
 "proxy-example.html"
 
 #: src/components/SelfCheck/tasks/frontend/websocket.ts:13
 msgid ""
 "Support communication with the backend through the WebSocket protocol. If "
-"your Nginx UI is being used via an Nginx reverse proxy, please refer to this "
+"your Water NG is being used via an Nginx reverse proxy, please refer to this "
 "link to write the corresponding configuration file: https://nginxui.com/"
 "guide/nginx-proxy-example.html"
 msgstr ""
-"WebSocket プロトコルを介してバックエンドとの通信をサポートします。Nginx UI "
+"WebSocket プロトコルを介してバックエンドとの通信をサポートします。Water NG "
 "が Nginx リバースプロキシ経由で使用されている場合は、このリンクを参照して対応"
 "する設定ファイルを作成してください: https://nginxui.com/guide/nginx-proxy-"
 "example.html"
@@ -4911,12 +4911,12 @@ msgstr ""
 
 #: src/views/dashboard/Environments.vue:148
 msgid ""
-"The remote Nginx UI version is not compatible with the local Nginx UI "
-"version. To avoid potential errors, please upgrade the remote Nginx UI to "
+"The remote Water NG version is not compatible with the local Water NG "
+"version. To avoid potential errors, please upgrade the remote Water NG to "
 "match the local version."
 msgstr ""
-"リモートのNginx UIバージョンはローカルのNginx UIバージョンと互換性がありませ"
-"ん。潜在的なエラーを避けるため、リモートのNginx UIをローカルバージョンに合わ"
+"リモートのWater NGバージョンはローカルのWater NGバージョンと互換性がありませ"
+"ん。潜在的なエラーを避けるため、リモートのWater NGをローカルバージョンに合わ"
 "せてアップグレードしてください。"
 
 #: src/components/AutoCertForm/AutoCertForm.vue:43
@@ -4964,8 +4964,8 @@ msgid "This Auto Cert item is invalid, please remove it."
 msgstr "この自動証明書項目は無効です。削除してください。"
 
 #: src/views/certificate/CertificateEditor.vue:92
-msgid "This certificate is managed by Nginx UI"
-msgstr "この証明書はNginx UIによって管理されています"
+msgid "This certificate is managed by Water NG"
+msgstr "この証明書はWater NGによって管理されています"
 
 #: src/views/certificate/CertificateEditor.vue:165
 #: src/views/certificate/CertificateEditor.vue:179
@@ -5040,7 +5040,7 @@ msgstr ""
 #: src/components/SystemRestore/SystemRestoreContent.vue:238
 #: src/components/SystemRestore/SystemRestoreContent.vue:315
 msgid ""
-"This will restore configuration files and database. Nginx UI will restart "
+"This will restore configuration files and database. Water NG will restart "
 "after the restoration is complete."
 msgstr ""
 "これにより設定ファイルとデータベースが復元されます。復元が完了すると、Nginx "
@@ -5048,9 +5048,9 @@ msgstr ""
 
 #: src/views/environments/list/BatchUpgrader.vue:182
 msgid ""
-"This will upgrade or reinstall the Nginx UI on %{nodeNames} to %{version}."
+"This will upgrade or reinstall the Water NG on %{nodeNames} to %{version}."
 msgstr ""
-"これにより、%{nodeNames} 上の Nginx UI が %{version} にアップグレードまたは再"
+"これにより、%{nodeNames} 上の Water NG が %{version} にアップグレードまたは再"
 "インストールされます。"
 
 #: src/views/preference/tabs/AuthSettings.vue:92
@@ -5095,10 +5095,10 @@ msgstr ""
 msgid ""
 "To ensure security, Webauthn configuration cannot be added through the UI. "
 "Please manually configure the following in the app.ini configuration file "
-"and restart Nginx UI."
+"and restart Water NG."
 msgstr ""
 "セキュリティを確保するため、WebAuthn の設定は UI から追加できません。app.ini "
-"設定ファイルに以下の内容を手動で設定し、Nginx UI を再起動してください。"
+"設定ファイルに以下の内容を手動で設定し、Water NG を再起動してください。"
 
 #: src/views/site/site_edit/components/Cert/IssueCert.vue:34
 #: src/views/site/site_edit/components/EnableTLS/EnableTLS.vue:15
@@ -5237,8 +5237,8 @@ msgid "Upgrade"
 msgstr "アップグレード"
 
 #: src/views/environments/list/BatchUpgrader.vue:137
-msgid "Upgraded Nginx UI on %{node} successfully 🎉"
-msgstr "%{node} 上の Nginx UI のアップグレードに成功しました 🎉"
+msgid "Upgraded Water NG on %{node} successfully 🎉"
+msgstr "%{node} 上の Water NG のアップグレードに成功しました 🎉"
 
 #: src/language/constants.ts:30
 msgid "Upgraded successfully"
@@ -5246,8 +5246,8 @@ msgstr "アップグレードに成功しました"
 
 #: src/views/environments/list/BatchUpgrader.vue:88
 #: src/views/system/Upgrade.vue:81
-msgid "Upgrading Nginx UI, please wait..."
-msgstr "Nginx UI をアップグレード中です。しばらくお待ちください..."
+msgid "Upgrading Water NG, please wait..."
+msgstr "Water NG をアップグレード中です。しばらくお待ちください..."
 
 #: src/language/curd.ts:47
 msgid "Upload Files"
@@ -5422,11 +5422,11 @@ msgstr "毎週%{day}の%{time}"
 
 #: src/views/certificate/ACMEUser.vue:78
 msgid ""
-"When Enabled, Nginx UI will automatically re-register users upon startup. "
+"When Enabled, Water NG will automatically re-register users upon startup. "
 "Generally, do not enable this unless you are in a dev environment and using "
 "Pebble as CA."
 msgstr ""
-"有効にすると、Nginx UI は起動時に自動的にユーザーを再登録します。一般的に、開"
+"有効にすると、Water NG は起動時に自動的にユーザーを再登録します。一般的に、開"
 "発環境で Pebble を CA として使用している場合以外は、これを有効にしないでくだ"
 "さい。"
 
@@ -5506,8 +5506,8 @@ msgid "You are using the latest version"
 msgstr "最新バージョンを使用しています"
 
 #: src/views/system/Upgrade.vue:180
-msgid "You can check Nginx UI upgrade at this page."
-msgstr "このページでNginx UIのアップグレードを確認できます。"
+msgid "You can check Water NG upgrade at this page."
+msgstr "このページでWater NGのアップグレードを確認できます。"
 
 #: src/components/SystemRestore/SystemRestoreContent.vue:339
 msgid "You can close this dialog in %{countdown} seconds"
@@ -5566,8 +5566,8 @@ msgstr "あなたのパスキー"
 #~ msgid "Nginx Config"
 #~ msgstr "Nginx設定"
 
-#~ msgid "Nginx UI Config"
-#~ msgstr "Nginx UI 設定"
+#~ msgid "Water NG Config"
+#~ msgstr "Water NG 設定"
 
 #~ msgid "Disable"
 #~ msgstr "無効化"
@@ -5619,11 +5619,11 @@ msgstr "あなたのパスキー"
 #~ msgstr "ビューモード"
 
 #~ msgid ""
-#~ "Check if /var/run/docker.sock exists. If you are using Nginx UI Official "
+#~ "Check if /var/run/docker.sock exists. If you are using Water NG Official "
 #~ "Docker Image, please make sure the docker socket is mounted like this: `-"
 #~ "v /var/run/docker.sock:/var/run/docker.sock`."
 #~ msgstr ""
-#~ "/var/run/docker.sock が存在するか確認してください。Nginx UI 公式 Docker イ"
+#~ "/var/run/docker.sock が存在するか確認してください。Water NG 公式 Docker イ"
 #~ "メージを使用している場合は、Docker ソケットが次のようにマウントされている"
 #~ "ことを確認してください: `-v /var/run/docker.sock:/var/run/docker.sock`."
 

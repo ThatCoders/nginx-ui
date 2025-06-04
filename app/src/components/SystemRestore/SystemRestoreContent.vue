@@ -139,7 +139,7 @@ async function doRestore() {
     }
 
     if (data.nginx_ui_restored) {
-      message.info($gettext('Nginx UI configuration has been restored'))
+      message.info($gettext('Water NG configuration has been restored'))
       // If UI was restored, show the countdown modal
       resetCountdown()
     }
@@ -231,11 +231,11 @@ async function doRestore() {
 
           <AFormItem>
             <ACheckbox v-model:checked="formModel.restoreNginxUI">
-              {{ $gettext('Restore Nginx UI Configuration') }}
+              {{ $gettext('Restore Water NG Configuration') }}
             </ACheckbox>
             <div class="text-gray-500 ml-6 mt-1 text-sm">
               <p class="mb-0">
-                {{ $gettext('This will restore configuration files and database. Nginx UI will restart after the restoration is complete.') }}
+                {{ $gettext('This will restore configuration files and database. Water NG will restart after the restoration is complete.') }}
               </p>
             </div>
           </AFormItem>
@@ -308,11 +308,11 @@ async function doRestore() {
 
           <AFormItem>
             <ACheckbox v-model:checked="formModel.restoreNginxUI">
-              {{ $gettext('Restore Nginx UI Configuration') }}
+              {{ $gettext('Restore Water NG Configuration') }}
             </ACheckbox>
             <div class="text-gray-500 ml-6 mt-1 text-sm">
               <p class="mb-0">
-                {{ $gettext('This will restore configuration files and database. Nginx UI will restart after the restoration is complete.') }}
+                {{ $gettext('This will restore configuration files and database. Water NG will restart after the restoration is complete.') }}
               </p>
             </div>
           </AFormItem>
@@ -333,7 +333,7 @@ async function doRestore() {
       :mask-closable="false"
     >
       <p>
-        {{ $gettext('Nginx UI configuration has been restored and will restart automatically in a few seconds.') }}
+        {{ $gettext('Water NG configuration has been restored and will restart automatically in a few seconds.') }}
       </p>
       <p v-if="countdown > 0">
         {{ $gettext('You can close this dialog in %{countdown} seconds', { countdown: countdown.toString() }) }}

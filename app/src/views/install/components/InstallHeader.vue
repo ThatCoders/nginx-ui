@@ -4,7 +4,7 @@
 
 <template>
   <div class="project-title">
-    <h1>Nginx UI</h1>
+    <h1>Nginx Water</h1>
     <h3>
       {{ $gettext('Install') }}
     </h3>
